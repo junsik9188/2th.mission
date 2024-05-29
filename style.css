@@ -1,5 +1,4 @@
 
-
 .box{
   border: 50px solid red; 
   width: 200px;
@@ -18,10 +17,6 @@
 
 .blue{
   border-color: 50px solid blue;
-  margin-top: 20px;
+  margine-top: 20px;
   padding: 50px; 
 }
-
-
-
-
